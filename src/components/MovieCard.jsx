@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 
 import { FaStar } from "react-icons/fa"
 import '../pages/MovieGrid.css'
+import '../pages/Movie.css';
 
 
 const imgURL = import.meta.env.VITE_IMG
